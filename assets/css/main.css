@@ -56,7 +56,7 @@ body {
 }
 
 /*
- * Remove the gap between images and the bottom of their containers: h5bp.com/i/440
+ * Remove the gap between  and the bottom of their containers: h5bp.com/i/440
  */
 
  img {
@@ -229,7 +229,7 @@ blockquote cite:before {
     content: "-- "
 }
 
-/* Images */
+/*  */
 .overflow-image {
     margin-top: -65px;
 }
@@ -411,7 +411,7 @@ a:after {
 /* Section Dividers Backgrounds */
 
 .divider1 {
-	background-image: url('../img/kisii.jpg')
+	background-image: url('../img/bus1.jpg')
 }
 
 .divider2 {
