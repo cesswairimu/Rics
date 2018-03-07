@@ -1,4 +1,9 @@
 @import 'variables';
+@import url('https://fonts.googleapis.com/css?family=Karma');
+
+body {
+  font-family: 'Karma', serif;
+}
 
 .navbar-nav {
   a {
@@ -18,7 +23,7 @@
 
 .image-text {
   h1 {
-    color: #964818 !important;
+    color: $image_text !important;
     font-weight: bolder;
     text-transform: uppercase;
   }
