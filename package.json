@@ -1,0 +1,24 @@
+{
+  "name": "Rics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "node-sass --watch sass -o css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cesswairimu/Rics.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cesswairimu/Rics/issues"
+  },
+  "homepage": "https://github.com/cesswairimu/Rics#readme",
+  "dependencies": {
+    "node-sass": "^4.7.2"
+  }
+}

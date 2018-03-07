@@ -1,0 +1,25 @@
+@import 'variables';
+
+.navbar-nav {
+  a {
+    color: $nav_links !important;
+
+    &:hover {
+      background: none !important;
+      color: $header_color !important;
+    }
+  }
+}
+
+.navbar-brand {
+  color: $header_color !important;
+  font-size: 24px;
+}
+
+.image-text {
+  h1 {
+    color: #964818 !important;
+    font-weight: bolder;
+    text-transform: uppercase;
+  }
+}
