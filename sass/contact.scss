@@ -1,0 +1,26 @@
+@import 'variables';
+.contact {
+
+  background: white !important;
+}
+.contact-buttons {
+  div {
+    display: inline-block;
+  }
+}
+.btn-rounded {
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  border: 1px solid $header_color;
+
+  &:hover {
+    background: $header_color !important;
+    color: white;
+    border: 1px solid $header_color;
+  }
+
+  p {
+    padding-top:20px;
+  }
+}
