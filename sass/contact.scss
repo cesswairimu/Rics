@@ -24,3 +24,13 @@
     padding-top:20px;
   }
 }
+
+// Footer
+.footer {
+  .btn {
+    margin: 2px;
+    color: white;
+    border: 1px solid $header_color;
+    background: $header_color;
+  }
+}

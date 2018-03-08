@@ -15,3 +15,9 @@
     border: 1px solid #63D1F4; }
   .btn-rounded p {
     padding-top: 20px; }
+
+.footer .btn {
+  margin: 2px;
+  color: white;
+  border: 1px solid #63D1F4;
+  background: #63D1F4; }
