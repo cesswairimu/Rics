@@ -13,6 +13,7 @@
   width: 50px;
   border-radius: 50%;
   border: 1px solid $header_color;
+  color: $nav_links;
 
   &:hover {
     background: $header_color !important;
