@@ -13,6 +13,8 @@
     background: #63D1F4 !important;
     color: white;
     border: 1px solid #63D1F4; }
+  .btn-rounded span {
+    padding: 6px 5px 5px 5px; }
   .btn-rounded p {
     padding-top: 20px; }
 
