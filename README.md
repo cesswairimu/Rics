@@ -15,7 +15,7 @@ npm run sass
 
 Open a new tab, in the same directory, and serve your files with http-server:
 ```
-http-serve .
+http-server .
 ```
 
 If you have not installed http-server yet, then install it:
