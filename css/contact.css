@@ -1,0 +1,26 @@
+.contact {
+  background: white !important; }
+
+.contact-buttons div {
+  display: inline-block; }
+
+.btn-rounded {
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  border: 1px solid #63D1F4;
+  color: #777; }
+  .btn-rounded:hover {
+    background: #63D1F4 !important;
+    color: white;
+    border: 1px solid #63D1F4; }
+  .btn-rounded span {
+    padding: 6px 5px 5px 5px; }
+  .btn-rounded p {
+    padding-top: 20px; }
+
+.footer .btn {
+  margin: 2px;
+  color: white;
+  border: 1px solid #63D1F4;
+  background: #63D1F4; }
